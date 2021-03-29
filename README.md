@@ -12,3 +12,4 @@ The user can provide an alternative alphabet that will be used to decipher or en
 
 ### Skills used:
 * JavaScript ES6
+* HTML5
